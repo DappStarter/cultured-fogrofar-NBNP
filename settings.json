@@ -1,0 +1,10 @@
+{
+    "name": "6e5cdd6f-c087-48ec-b875-72da6db9568b",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/collection/core-entity": true
+    }
+}
